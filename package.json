@@ -1,0 +1,16 @@
+{
+  "name": "vimium-gpt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.14",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "openai": "^4.26.0",
+    "playwright": "^1.41.1"
+  },
+  "scripts": {}
+}
